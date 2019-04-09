@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">PayRecord</string>
+    <string name="action_settings">Settings</string>
+    <!-- Strings related to login -->
+    <string name="action_sign_in">登录</string>
+    <string name="action_confirm">确定</string>
+    <string name="action_to_open">"支付服务"</string>
+    <string name="action_to_wx">微信</string>
+    <string name="action_to_zfb">支付宝</string>
+    <string name="action_to_log">日志记录</string>
+    <string name="action_to_privileges">服务权限</string>
+    <string name="action_open_setting">打开权限设置</string>
+    <string name="action_to_mute">静音</string>
+    <string name="action_order">订单管理</string>
+    <string name="action_qrcode">二维码管理</string>
+    <string name="action_merchant">商户密钥</string>
+    <string name="action_get_token">获取Token</string>
+    <string name="textOn">开启</string>
+    <string name="textOff">关闭</string>
+    <string name="app_id">appid</string>
+    <string name="app_token">token</string>
+    <string name="login_help">\n1:点击获取Token,捐赠1元可以获取一个TOKEN</string>
+    <string name="title_activity_log">日志记录</string>
+    <string name="action_exitapp">退出</string>
+    <string name="action_apiset">自定义接口</string>>
+</resources>
